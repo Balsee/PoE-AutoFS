@@ -6,7 +6,7 @@ INFO:
 
 - To make the script work, you need to have AutoHotey installed.
 - To run the script launch the file called "AutoFS"
-- To change the script's behavior you need to edit the "Settings" file (below you can find a quick explanation on how to do it).
+- To change the script's behavior you need to edit the "Settings" file using any text editor (below you can find a quick explanation on how to do it).
 - You can pause the script by clicking F11, and shut it down by clicking F12.
 
 (This is a very simple script that allows you to press a couple of buttons at the same time.
