@@ -2,7 +2,7 @@
 
 INFO:
 
-- To make the script work, you must install the AutoHotKey program.
+- To make the script work, you must install the AutoHotKey software.
 - To run the script launch the file called "AutoFS"
 - To change the script's behavior you need to edit the "Settings" file (below you can find a quick explanation on how to do it).
 - You can pause the script by clicking F11, and shut it down by clicking F12.
