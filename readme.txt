@@ -1,5 +1,7 @@
 ===AUTO FLASK-SKILL SCRIPT===
 
+DOWNLOAD THE SCRIPT FROM THE RELEASES SECTION
+
 INFO:
 
 - To make the script work, you must install the AutoHotKey software.
